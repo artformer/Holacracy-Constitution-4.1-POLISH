@@ -1,9 +1,9 @@
 #**Holacracy Constitution - Development Version**
 
 
-###PREAMBLE
+###PREAMBUŁA
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+Niniejsza **_"Konstytucja"_** ustanawia zasady i procesy zarządzania i funkcjonowania organizacji. **_"Ratyfikujący"_** Konstytucję przyjmują te zasady, jako formalną strukturę sprawowania władzy w **_"Organizacji"_**, której dotyczy, która może stanowić całość podmiotu lub jego część, do której kierowania Ratyfikujący posiadają uprawnienia. Ratyfikujący Konstytucję oraz wszystkie inne osoby, które zgadzają się uczestniczyć w zarządzaniu i działaniach Organizacji (jej **_"Partnerzy"_**), mogą powoływać się na uprawnienia nadane niniejszą Konstytucją oraz zgadzają się przestrzegać nałożonych na jej podstawie obowiązków i ograniczeń.
 
 ## Article I: Energizing Roles
 
