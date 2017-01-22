@@ -5,15 +5,15 @@
 
 Niniejsza **_"Konstytucja"_** ustanawia zasady i procesy zarządzania i funkcjonowania organizacji. **_"Ratyfikujący"_** Konstytucję przyjmują te zasady, jako formalną strukturę sprawowania władzy w **_"Organizacji"_**, której dotyczy, która może stanowić całość podmiotu lub jego część, do której kierowania Ratyfikujący posiadają uprawnienia. Ratyfikujący Konstytucję oraz wszystkie inne osoby, które zgadzają się uczestniczyć w zarządzaniu i działaniach Organizacji (jej **_"Partnerzy"_**), mogą powoływać się na uprawnienia nadane niniejszą Konstytucją oraz zgadzają się przestrzegać nałożonych na jej podstawie obowiązków i ograniczeń.
 
-## Article I: Energizing Roles
+## Artykuł I: Wypełnianie Ról
 
-### 1.1 Definition of a Role
+### 1.1 Definicja Roli
 
-The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+Partnerzy Organizacji będą zwykle wykonywać pracę na rzecz Organizacji poprzez działanie w ramach ściśle określonej Roli. **_“Rola”_**  jest to elementem organizacji mający opisową nazwę oraz posiadający jedno lub więcej z poniższych:
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
-- **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
+- **(a)** **_“Cel”_**, którym jest możliwość, potencjał lub cel trudny do realizacji, do którego Rola będzie dążyć lub wyrażać go w imieniu Organizacji.
+- **(b)** jedą bądź więcej **_“Domen”_**, czyli rzeczy, nad którymi Rola może sprawować wyłączną kontrolę i które może regulować jak swoją własność w imieniu Organizacji.
+- **(c)** jeden bądź więcej **_“Obszarów Odpowiedzialności”_**, którymi są bieżące działania Organizacji, a które Rola będzie wykonywać.
 
 ### 1.2 Responsibilities of Role-Filling
 
