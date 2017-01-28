@@ -11,9 +11,9 @@ Niniejsza **_"Konstytucja"_** ustanawia zasady i procesy zarządzania i funkcjon
 
 Partnerzy Organizacji będą zwykle wykonywać pracę na rzecz Organizacji poprzez działanie w ramach ściśle określonej Roli. **_“Rola”_**  jest to elementem organizacji mający opisową nazwę oraz posiadający jedno lub więcej z poniższych:
 
-- **(a)** **_“Cel”_**, którym jest możliwość, potencjał lub cel trudny do realizacji, do którego Rola będzie dążyć lub wyrażać go w imieniu Organizacji.
+- **(a)** **_“Przeznaczenie”_**, którym jest możliwość, potencjał lub cel trudny do realizacji, do którego Rola będzie dążyć lub wyrażać go w imieniu Organizacji.
 - **(b)** jedą bądź więcej **_“Domen”_**, czyli rzeczy, nad którymi Rola może sprawować wyłączną kontrolę i które może regulować jak swoją własność w imieniu Organizacji.
-- **(c)** jeden bądź więcej **_“Obszarów Odpowiedzialności”_**, którymi są bieżące działania Organizacji, a które Rola będzie wykonywać.
+- **(c)** jeden bądź więcej **_“Odpowiedzialności”_**, którymi są bieżące działania Organizacji, a które Rola będzie wykonywać.
 
 ### 1.2 Obowiązki Opiekuna Roli
 
@@ -23,39 +23,38 @@ Jako Partner w Organizacji, masz następujące obowiązki w ramach każdej z Ró
 
 Jesteś odpowiedzialny za monitorowanie sposobu, w jaki Przeznaczenie i Odpowiedzialności przypisanej Roli są wyrażone, oraz porównywanie tego do twojej wizji ich potencjalnie idealnego ujęcia, tak żeby wychwycić różnicę pomiędzy stanem aktualnym a potencjalnym  (każda taka różnica jest "Napięciem"). Jesteś również odpowiedzialny za podejmowanie prób rozwiązania tych Napięć używając do tego posiadanej w Roli władzy i innych mechanizmów wynikających z niniejszej Konstytucji.
 
-#### 1.2.2 Realizowanie Celu i Obszarów Odpowiedzialności
+#### 1.2.2 Realizowanie Przeznaczenia i Odpowiedzialności Roli
 
-Jesteś odpowiedzialny za regularne badanie w jaki sposób realizować Cel twojej Roli i każdą z Odpowiedzialności twojej Roli poprzez określenie:
+Jesteś odpowiedzialny za regularne badanie w jaki sposób realizować Przeznaczenie twojej Roli i każdą z Odpowiedzialności twojej Roli poprzez określenie:
 
 - **(a)** **_“Kolejnych Działań”_**, które można wykonać bezzwłocznie i których natychmiastowe wykonanie byłoby użyteczne przynajmniej w sytuacji braku konkurencyjnych priorytetów; oraz    
 - **(b)** **_“Projektów”_**, które stanowią konkretne wyniki wymagające wykonania wielu następujących po sobie działań, a których wykonanie byłoby użyteczne przynajmniej w sytuacji braku konkurencyjnych priorytetów.
 
-#### 1.2.3 Processing Projects
+#### 1.2.3 Przetwarzanie Projektów
 
-You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+Odpowiadasz za regularne określenie w jaki sposób sfinalizować każdy Projekt określony dla twojej Roli, nad którym aktywnie pracujesz, łącznie ze zdefiniowaniem wszelkich Kolejnych Działań pomocnych w popchnięciu Projektu do przodu.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 Śledzenie Projektów, Kolejnych Działań i Napięć
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+W ramach twojej Roli odpowiadasz za uchwycenie i śledzenie wszystkich Projektów oraz Kolejnych Działań w postaci listy projektów lub w innej materialnej formie oraz za regularne przeglądanie i aktualizowanie takiej bazy aby była wiarygodną listą bieżących i możliwych zadań wykonywanych przez Rolę. Odpowiadasz również za śledzenie wszelkich Napięć, które zidentyfikujesz dla twojej Roli przynajmniej dopóki ich nie sformułujesz w postaci pożądanych Projektów lub Kolejnych Działań lub inaczej ich nie rozwiążesz.
 
-#### 1.2.5 Directing Attention & Resources
+#### 1.2.5 Kierowanie Uwagi i Zasobów
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+Za każdym razem, gdy masz dostępny czas aby podjąć działanie w swojej Roli odpowiadasz za rozważenie potencjalnych Kolejnych Działań, jakie możesz sprawnie i skutecznie wykonać w danym czasie, oraz za wykonywanie tych Kolejnych Działań spośród nich, które uważasz za najbardziej wartościowe dla Organizacji. 
 
-### 1.3 Authority to Act
+### 1.3 Upoważnienie do Działania
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+Jako Partner będący opiekunem Roli, posiadasz uprawnienia do wykonywania wszelkich Kolejnych Działań, co do których masz powody sądzić, że są one użyteczne przy dążeniu do Przeznaczenia roli bądź realizowaniu jej Odpowiedzialności. 
+ 
+Jednakże nie możesz sprawować kontroli ani podejmować działań w ramach Domeny w posiadaniu której jest inna Rola lub inna niezależna jednostka, chyba, że uzyskałeś od niej zgodę. Dodatkowe ograniczenia do upoważnienia nadanego w niniejszym paragrafie są określone w Sekcji 2.1.3.
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
+### 1.4 Władza Nad Domenami
 
-### 1.4 Authority Over Domains
+Jako Partner będący opiekunem Roli, posiadasz uprawnienia do sprawowania kontroli oraz regulacji każdej Domeny przypisanej do twojej Roli. Możesz dokonywać regulacji takiej Domeny każdorazowo kiedy inni zwrócą się o pozwolenie na ingerowanie w którąś z twoich Domen poprzez rozważenie prośby oraz wyrażenie zgody na nią lub odmowę.
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+Możesz również zdefiniować **_“Reguły”_** dla twoich Domen, które albo udzielają pozwolenia na kontrolowanie lub wywieranie istotnego wpływu na twoją Domenę, albo stanowią ograniczenie sposobu w jaki inni wcześniej uprawnieni mogą ingerować w twoją Domenę. Zanim jakaś Zasada zacznie obowiązywać, musisz ją najpierw ogłosić w sposób umożliwiający wszystkim Partnerom, na których może mieć wpływ, zapoznanie się z nią.
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
-
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
-
+Uprawnienia nadane ci na mocy niniejszej Sekcji mogą zostać dalej zawężone poprzez ograniczenia określone w Sekcji 2.1.3.
 
 ## Article II: Circle Structure
 
