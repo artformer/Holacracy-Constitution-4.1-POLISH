@@ -48,7 +48,7 @@ Jako Partner będący opiekunem Roli, posiadasz uprawnienia do wykonywania wszel
  
 Jednakże nie możesz sprawować kontroli ani podejmować działań w ramach Domeny w posiadaniu której jest inna Rola lub inna niezależna jednostka, chyba, że uzyskałeś od niej zgodę. Dodatkowe ograniczenia do upoważnienia nadanego w niniejszym paragrafie są określone w Sekcji 2.1.3.
 
-### 1.4 Władza Nad Domenami
+### 1.4 Władza nad Domenami
 
 Jako Partner będący opiekunem Roli, posiadasz uprawnienia do sprawowania kontroli oraz regulacji każdej Domeny przypisanej do twojej Roli. Możesz dokonywać regulacji takiej Domeny każdorazowo kiedy inni zwrócą się o pozwolenie na ingerowanie w którąś z twoich Domen poprzez rozważenie prośby oraz wyrażenie zgody na nią lub odmowę.
 
@@ -56,57 +56,57 @@ Możesz również zdefiniować **_“Reguły”_** dla twoich Domen, które albo
 
 Uprawnienia nadane ci na mocy niniejszej Sekcji mogą zostać dalej zawężone poprzez ograniczenia określone w Sekcji 2.1.3.
 
-## Article II: Circle Structure
+## Artykół II: Struktura Kręgów
 
 ### 2.1 Circle Basics
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
+**_“Krąg”_** jest Rolą, która może się rozdzielić poprzez zdefiniowanie zawartych w sobie Ról, w celu osiągania Przeznaczenia, kontrolowania Domen i realizowania Odpowiedzialności. Role, jakie definiuje Krąg to jego **_“Zdefiniowane Role”_**, a każdy, kto wypełnia jedną z tych Zdefiniowanych Ról jest **_“Członkiem Kręgu”_**.
 
-#### 2.1.1 Defining Roles & Policies
+#### 2.1.1 Definiowanie Ról i Reguł
 
-Each Circle will use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+Każdy Krąg będzie stosował **_“Proces Zarządczy”_** opisany w Artykule III tej Konstytucji w celu definiowania i modyfikacji Ról w ramach Kręgu lub Reguł rządzących Domenami Kręgu. Nikt nie może definiować ani modyfikować Ról Kręgu ani Reguł poza jego "Procesem Zarządczym", chyba, że jest to wyraźnie dozwolone inną regułą niniejszej Konstytucji.
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+Każdy Krąg może kontrolować swoje własne funkcje i działania, tak jak Domenę Kręgu, w celu definiowania Reguł, ograniczających Role Kręgu.
 
-#### 2.1.2 Roles May Impact Circle Domains
+#### 2.1.2 Role Mogą Wpływać na Domeny Kręgu
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+Wypełniając Rolę w Kręgu, możesz używać i wpływać na wszelkie Domeny kontrolowane przez sam Krąg lub, na które Krąg ma uprawnienia do wpływania. Jednakże musisz przestrzegać wszelkich ograniczeń dotyczących samego Kręgu lub zdefiniowanych Regułami Kręgu i nie możesz w pełni kontrolować lub regulować Domeny na warunkach określonych Sekcją 1.4.
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+Nie możesz przenieść ani zbyć samej Domeny ani istotnych aktywów w ramach danej Domeny, ani nie możesz w istotny sposób ograniczać jakichkolwiek praw, jakie Krąg posiada do Domeny. Jednakże ograniczenia te nie mają zastosowania, jeżeli jakaś Rola lub proces, mający potrzebne uprawnienia da ci do tego pozwolenie.
 
-#### 2.1.3 Delegation of Control
+#### 2.1.3 Delegowanie Kontroli
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+W momencie, gdy jakiś Krąg przekaże Domenę jednej ze swych Ról, wówczas uprawnienia Kręgu co do wpływania na tę Domenę, na jej kontrolowanie i regulowanie zostają przekazane tej Roli i usunięte z tego Kręgu.
 
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+Jednakże, Krąg zachowuje prawo do zmienienia lub cofnięcia tej delegacji Domeny lub do definiowania lub modyfikowania Reguł, które nadają lub ograniczają uprawnienia Roli w ramach tej Domeny.
 
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+Domyślnie, wszelkie przekazanie w ten sposób Domeny wyłącza uprawnienie do zbycia samej Domeny, lub zbycia jakichkolwiek istotnych aktywów w jej ramach, lub do przeniesienia tych aktywów poza Krąg, lub do znacznego ograniczania wszelkich praw Kręgu do Domeny. Krąg może również przekazać te pozostałe uprawnienia poprzez wyraźne stwierdzenie tego w Regułach Kręgu.
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+W każdym przypadku wszelkie delegowanie Domen jest zawsze ograniczone do uprawnień, jakie sam Krąg posiadał na samym początku.
 
-### 2.2 Circle Lead Link
+### 2.2 Opiekun Kręgu
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+Każdy Krąg posiada **_“Rolę Opiekuna Kręgu”_**  zdefiniowaną w Załączniku A, a posiadającą obowiązki i uprawnienia zdefiniowane w niniejszej Sekcji.
 
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+Osoba wypełniająca Rolę Opiekuna Kręgu, kiedy wypełnia swoje obowiązki jest określana jako **_“Opiekun Kręgu”_**.
 
-#### 2.2.1 Holds Undifferentiated Functions
+#### 2.2.1 Opiekun Posiada Nierodzielone Funkcje
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+Opiekun Kręgu dziedziczy Przeznaczenie oraz wszelkie Odpowiedzialności samego Kręgu oraz kontroluje wszelkie Domeny należące do Kręgu tak, jakby Krąg był jedynie Rolą, a Opiekun tę Rolę wypełniał. Jednakże ma to zastosowanie jedynie w zakresie, w jakim Odpowiedzialności i Domeny nie zostały przekazane Roli w Kręgu czy inaczej wydelegowane.
 
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+Ponadto, Opiekun nie może definiować Reguł, które ograniczałyby Role Kręgu, chyba że poprzez Proces Zarządczy Kręgu.
 
-#### 2.2.2 Defines Priorities & Strategies
+#### 2.2.2 Definiowanie Priorytetów i Strategii
 
-A Circle’s Lead Link may define relative priorities for the Circle.
+Opiekun Kręgu może ustalać priorytety dla Kręgu.
 
-In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+Dodatkowo Opiekun może definiować bardziej ogólną **_“Strategię”_** dla Kręgu lub też wiele Strategii, które są ogólnymi regułami mającymi za zadanie wsparcie Ról Kręgu, w ich samo-zarządzaniu pracą (na przykład, wyborze priorytetowych projektów) na co dzień.  
 
-#### 2.2.3 Amending the Lead Link Role
+#### 2.2.3 Zmienianie Roli Opiekuna Kręgu
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+Krąg nie może dodawać Odpowiedzialności ani innych funkcji do Roli własnego Opiekuna ani też modyfikować Przeznaczenia Roli czy też całkowicie tą Rolę usunąć. 
 
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+Krąg może usunąć dowolne Odpowiedzialności, Domeny, kompetencje lub funkcje swojej Roli Opiekuna albo przez przekazanie ich innej Roli w ramach Kręgu, albo poprzez zdefiniowanie alternatywnego sposobu ich wdrożenia. W takim wypadku Rola Opiekuna zostaje pozbawiona odpowiednich elementów, do czasu kiedy trwa delegacja tych elementów. 
 
 ### 2.3 Core Circle Members
 
