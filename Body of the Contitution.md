@@ -15,20 +15,20 @@ Partnerzy Organizacji będą zwykle wykonywać pracę na rzecz Organizacji poprz
 - **(b)** jedą bądź więcej **_“Domen”_**, czyli rzeczy, nad którymi Rola może sprawować wyłączną kontrolę i które może regulować jak swoją własność w imieniu Organizacji.
 - **(c)** jeden bądź więcej **_“Obszarów Odpowiedzialności”_**, którymi są bieżące działania Organizacji, a które Rola będzie wykonywać.
 
-### 1.2 Responsibilities of Role-Filling
+### 1.2 Obowiązki Opiekuna Roli
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+Jako Partner w Organizacji, masz następujące obowiązki w ramach każdej z Ról, do której jesteś przypisany i jaką zgadzasz się wypełniać:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 Przetwarzanie Napięć
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+Jesteś odpowiedzialny za monitorowanie sposobu, w jaki Przeznaczenie i Odpowiedzialności przypisanej Roli są wyrażone, oraz porównywanie tego do twojej wizji ich potencjalnie idealnego ujęcia, tak żeby wychwycić różnicę pomiędzy stanem aktualnym a potencjalnym  (każda taka różnica jest "Napięciem"). Jesteś również odpowiedzialny za podejmowanie prób rozwiązania tych Napięć używając do tego posiadanej w Roli władzy i innych mechanizmów wynikających z niniejszej Konstytucji.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 Realizowanie Celu i Obszarów Odpowiedzialności
 
-You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
+Jesteś odpowiedzialny za regularne badanie w jaki sposób realizować Cel twojej Roli i każdą z Odpowiedzialności twojej Roli poprzez określenie:
 
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** **_“Kolejnych Działań”_**, które można wykonać bezzwłocznie i których natychmiastowe wykonanie byłoby użyteczne przynajmniej w sytuacji braku konkurencyjnych priorytetów; oraz    
+- **(b)** **_“Projektów”_**, które stanowią konkretne wyniki wymagające wykonania wielu następujących po sobie działań, a których wykonanie byłoby użyteczne przynajmniej w sytuacji braku konkurencyjnych priorytetów.
 
 #### 1.2.3 Processing Projects
 
