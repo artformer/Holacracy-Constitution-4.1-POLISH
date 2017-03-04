@@ -163,17 +163,17 @@ Partner może w każdej chwili zrezygnować z wypełnianej przez siebie Roli, po
 
 Każdy Krąg zawiera **_“Rolę Moderatora”_**, **_“Rolę Sekretarza”_**, oraz **_“Rolę Reprezentanta”_** posiadające definicje podane w Załączniku A. Są to **_“Wybieralne Role”_** Kręgu, a a osoba wypełniająca każdą z nich staje się **_“Moderatorem”_**, **_“Sekretarzem”_**, bądź **_“Reprezentantem”_** Kręgu, kiedy działa w zakresie danej Roli.
 
-#### 2.5.1 Elections & Eligibility
+#### 2.5.1 Wybory i kwalifikacja
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.
+Moderator każdego Kręgu regularnie organizuje wybory w celu wyboru Członka Kręgu na każdą z Wybieralnych Ról, korzystając z procesów oraz zasad określonych w Artykule III. 
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Wszyscy Członkowie kwalifikują się do wyboru, przy czym każdy z nich może pełnić wiele Wybieralnych Ról, z wyjątkiem Opiekuna, który nie może być wybrany na Moderatora ani na Reprezentanta.
 
-#### 2.5.2 Election Terms & Revisiting
+#### 2.5.2 Kadencja i reelekcja
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+W procesie wyboru Moderator określa kadencję pełnienia danej Wybieralnej Roli. Po upływie kadencji Sekretarz jest odpowiedzialny za natychmiastowe wszczęcie procedury nowego wyboru dla tej Roli. Jednakże nawet przed upływem kadencji, każdy Członek Kręgu może wszcząć procedurę wyboru stosując proces zdefiniowany w Artykule III.
 
-#### 2.5.3 Amending Elected Roles
+#### 2.5.3 Zmiana Ról wybieralnych
 
 A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
 
@@ -181,17 +181,17 @@ However, a Circle may only add to its own Rep Link Role and not to a Rep Link Ro
 
 Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
-#### 2.5.4 Surrogates for Elected Roles
+#### 2.5.4 Zastępcy wybieralnych Ról
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+Zastępca może czasowo wypełniać Wybieralną Rolę, gdy któraś z nich nie jest obsadzona, lub gdy osoba, która zwykle wypełnia Rolę, nie jest dostępna na zgromadzeniu Kręgu lub czuje, że nie jest w stanie lub też, gdy nie chce wypełniać obowiązków tej Roli. 
 
-In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+W każdym przypadku, kiedy potrzebny jest zastępca, zostaje nim w następującej kolejności:    
 
-- **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+- **(a)** osobą wyraźnie wskazaną przez osobę, którą zastępuje; lub
+- **(b)** osoba pełniącą funkcję Moderatora Kręgu; lub 
+- **(c)** osoba pełniąca funkcję Sekretarza Kręgu; lub
+- **(d)** Opiekun Kręgu; lub
+- **(e)** pierwszy Członek Kręgu, który oświadczy, że działa w charakterze zastępcy.
 
 ### 2.6 Sub-Circles
 
