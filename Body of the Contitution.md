@@ -175,11 +175,7 @@ W procesie wyboru Moderator określa kadencję pełnienia danej Wybieralnej Roli
 
 #### 2.5.3 Zmiana Ról wybieralnych
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
-
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
-
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+Krąg może dodawać Odpowiedzialności lub Domeny do swoich Wybieralnych Ról oraz zmieniać i usuwać te dodane Odpowiedzialności lub Domeny. Jednakże Krąg może jedynie dodawać tylko we własnej Roli Reprezentanta, a nie w Roli Reprezentanta wyznaczonego z Pod-Kręgu. Dodatkowo, żaden Krąg nie może zmieniać ani usuwać jakiegokolwiek Przeznaczenia, Domeny, Odpowiedzialności czy kompetencji nadanych Wybieralnej Roli przez niniejszą Konstytucję, nie może również całkowicie zlikwidować Wybieralnej Roli.
 
 #### 2.5.4 Zastępcy wybieralnych Ról
 
@@ -193,31 +189,29 @@ W każdym przypadku, kiedy potrzebny jest zastępca, zostaje nim w następujące
 - **(d)** Opiekun Kręgu; lub
 - **(e)** pierwszy Członek Kręgu, który oświadczy, że działa w charakterze zastępcy.
 
-### 2.6 Sub-Circles
+### 2.6 Pod-Krąg
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+Krąg może rozszerzać swoje Zdefiniowane Role w nowe Kręgi w drodze Procesu Zarządczego. W takiej sytuacji nowy Krąg nazywa się **_“Pod-Kręgiem”_**, podczas gdy stary staje się **_“Kręgiem Matką”_** tegoż Pod-Kręgu.
 
-#### 2.6.1 Modifying Sub-Circles
+#### 2.6.1 Zmiana Pod-Kręgu
 
-A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
+Krąg może modyfikować Przeznaczenie, Domenę lub Odpowiedzialności dla Pod-Kręgu. 
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
+Krąg może również przenosić swoje własne Zdefiniowane Role lub Reguły do Pod-Kręgów lub też przenieść którekolwiek z nich z Pod-Kręgu do siebie. Każda z tych zmian może zostać przeprowadzona wyłącznie poprzez Proces Zarządczy Kręgu. 
 
-Any of these modifications may only be done via the Governance Process of the Circle.
+Poza powyższymi dozwolonymi zmianami, Krąg nie może modyfikować żadnych Zdefiniowanych Ról ani Reguł w ramach Pod-Kręgu.
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+#### 2.6.2 Usuwanie Pod-Kręgów
 
-#### 2.6.2 Removing Sub-Circles
+Krąg może zlikwidować Pod-Kręgi poprzez swój Proces Zarządczy. Można to zrobić przez zlikwidowanie Pod-Kręgu oraz wszystkiego, co obejmuje, lub poprzez selektywne pozostawianie pewnych elementów Pod-Kręgu w ramach Nad-Kręgu. Pod-Krąg może zostać również zlikwidowany poprzez zwinięcie go z Kręgu do pojedynczej Roli.
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+#### 2.6.3 Okierun Pod-Kręgu
 
-#### 2.6.3 Lead Link to Sub-Circle
+Opiekun Kręgu może przydzielić osobę do wypełniania Roli Opiekuna dla każdego Pod-Kręgu korzystając z takich samych zasad, jakie mają zastosowanie, gdy Opiekun przydziela do każdej innej Zdefiniowanej Roli.
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+#### 2.6.4 Reprezentant z Pod-Kręgu do Kręgu Matki
 
-#### 2.6.4 Rep Link to Super-Circle
-
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Standardowo każdy Krąg wybiera Reprezentanta do Kręgu Matki. Jednakże wyboru takiego się nie wymaga, gdy Krąg nie posiada Członków innych aniżeli tych, którzy pełnią funkcję Opiekuna i Łącznika do Kręgu. W takim przypadku nawet jeśli przeprowadza się wybór, to wybrany Reprezentant nie staje się Członkiem Kręgu Matki.
 
 ### 2.7 Cross Linking
 
