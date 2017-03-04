@@ -108,60 +108,60 @@ Krąg nie może dodawać Odpowiedzialności ani innych funkcji do Roli własnego
 
 Krąg może usunąć dowolne Odpowiedzialności, Domeny, kompetencje lub funkcje swojej Roli Opiekuna albo przez przekazanie ich innej Roli w ramach Kręgu, albo poprzez zdefiniowanie alternatywnego sposobu ich wdrożenia. W takim wypadku Rola Opiekuna zostaje pozbawiona odpowiednich elementów, do czasu kiedy trwa delegacja tych elementów. 
 
-### 2.3 Core Circle Members
+### 2.3 Członkowie Kręgu
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+Osoby, które mogą brać udział w Procesie Zarządczym Kręgu, są nazywani **_“Członkami_** tegoż **_Kręgu”_**
 
-The Core Circle Members are determined using the following rules:
+Członkowie Kręgu wyznaczani są według następujących zasad:
 
-#### 2.3.1 Base Membership
+#### 2.3.1 Członkostwo Podstawowe
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+O ile nie ma miejsca specjalne mianowanie lub wyłączenie na mocy niniejszych przepisów, Członkami Kręgu są: 
 
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
+- **(a)** każdy Partner wypełniający Zdefiniowaną Rolę w Kręgu;
+- **(b)** Opiekun Kręgu, jak zdefiniowano w sekcji 2.2; 
+- **(c)** każdy Reprezentant wybrany do Kręgu, jak zdefiniowano w sekcji 2.6.4;
+- **(d)** oraz każdy Łącznik do Kręgu, jak zdefiniowano w sekcji 2.7.
 
-#### 2.3.2 Exclusion for Multi-Filled Roles
+#### 2.3.2 Wyjątek dla ról mających wielu opiekunów
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+Jeśli przydzielono kilku Partnerów do tej samej Zdefiniowanej Roli w Kręgu, wówczas Krąg może wprowadzić  Reguły, które wskazują, ilu z nich zostaje Członkami Kręgu w wyniku przydzielenia im tej Roli. Jednakże Reguły muszą zezwalać przynajmniej jednemu spośród Partnerów wypełniających tę Rolę na reprezentowanie jej, jako Członek Kręgu oraz muszą określać, w jaki sposób zostaje wybrany Partner do pełnienia tej funkcji.
 
-In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
+Dodatkowo, każdy z Partnerów reprezentujący Rolę ma obowiązek rozważać i przetwarzać Napięcia przekazane przez wyłączonych Partnerów dokładnie tak, jak zrobiłby to Reprezentant, gdyby Rola była Pod-Kręgiem, chyba, że Reguły definiują alternatywną ścieżkę dla wyłączonych Partnerów na przetwarzanie Napięć związanych z tą Rolą.
 
-#### 2.3.3 Exclusion for Minor Allocations
+#### 2.3.3 Wyłączenie drobnych Ról
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Czasami Partner przykłada jedynie bardzo małą, niemalże nic nieznaczącą uwagę do Zdefiniowanej Roli w Kręgu. Jeżeli Opiekun Kręgu uważa w granicach rozsądku, że taka sytuacja ma miejsce, wówczas może wyłączyć tego Partnera z działania w charakterze Członka Kręgu w wyniku wypełniania Zdefiniowanej Roli.
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+Jeżeli którykolwiek Partner zostanie w ten sposób wyłączony, wówczas obowiązkiem Opiekuna jest rozważanie i przetwarzanie Napięć przekazanych przez tego wyłączonego Partnera, dokładnie tak, jak zrobiłby to Reprezentant, gdyby Rola była Pod-Kręgiem, chyba, że dla wyłączonego Partnera zdefiniowano alternatywną ścieżkę przetwarzania Napięć związanych z jego(jej) Rolą.
 
-#### 2.3.4 Special Appointments of Core Members
+#### 2.3.4 Specjalne wyznaczanie członków KręguSpecial Appointments of Core Members
 
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+Opiekun Kręgu może specjalnie wyznaczyć dodatkowe osoby do działania w charakterze Członków Kręgu ponad tych, których wymaga niniejsza Konstytucja, oraz może w każdym czasie to wyznaczenie odwołać.
 
-### 2.4 Role Assignment
+### 2.4 Przydzielanie Ról
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+Opiekun Kręgu może przydzielić osoby do wypełniania Zdefiniowanych Ról w Kręgu chyba, że ta kompetencja została ograniczona lub delegowana.
 
-#### 2.4.1 Unfilled Roles
+#### 2.4.1 Role nieobsadzone
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+W każdym przypadku, gdy Zdefiniowana Rola w Kręgu nie jest obsadzona, uważa się, że Opiekun Kręgu wypełnia tę Rolę.
 
-#### 2.4.2 Assigning Roles to Multiple People
+#### 2.4.2 Przydzielanie Ról wielu osobom
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+Opiekun może przydzielić wiele osób do tej samej Zdefiniowanej Roli, o ile nie spowoduje to wątpliwości, co do tego, kto powinien pełnić Odpowiedzialności oraz co do uprawnień Roli w codziennej pracy.
 
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+Jednym ze sposobów eliminowania wątpliwości w powyższym zakresie jest określenie przez Opiekuna "Specjalizacji" wraz z każdym przydziałem Roli, który oznacza obszar lub zakres dla takiej osoby, na którym ma skupić uwagę w czasie wykonywania swojej Roli.
 
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+Gdy przyznanie Roli obejmuje Specjalizację, wówczas Przeznaczenie, Odpowiedzialności oraz Domeny zdefiniowane dla tej Roli mają zastosowanie wyłącznie w ramach określonej Specjalizacji dla tej określonej osoby.
 
-#### 2.4.3 Resignation from Roles
+#### 2.4.3 Rezygnacja z Roli
 
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
+Partner może w każdej chwili zrezygnować z wypełnianej przez siebie Roli, poprzez wystosowanie zawiadomienia do Roli, która kontroluje przydzielanie Ról (zwykle jest to Opiekun Kręgu) chyba, że wcześniej dana osoba zgodziła się jawnie na inne zasady.
 
-### 2.5 Elected Roles
+### 2.5 Role wybieralne
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+Każdy Krąg zawiera **_“Rolę Moderatora”_**, **_“Rolę Sekretarza”_**, oraz **_“Rolę Reprezentanta”_** posiadające definicje podane w Załączniku A. Są to **_“Wybieralne Role”_** Kręgu, a a osoba wypełniająca każdą z nich staje się **_“Moderatorem”_**, **_“Sekretarzem”_**, bądź **_“Reprezentantem”_** Kręgu, kiedy działa w zakresie danej Roli.
 
 #### 2.5.1 Elections & Eligibility
 
