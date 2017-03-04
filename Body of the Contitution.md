@@ -135,7 +135,7 @@ Czasami Partner przykłada jedynie bardzo małą, niemalże nic nieznaczącą uw
 
 Jeżeli którykolwiek Partner zostanie w ten sposób wyłączony, wówczas obowiązkiem Opiekuna jest rozważanie i przetwarzanie Napięć przekazanych przez tego wyłączonego Partnera, dokładnie tak, jak zrobiłby to Reprezentant, gdyby Rola była Pod-Kręgiem, chyba, że dla wyłączonego Partnera zdefiniowano alternatywną ścieżkę przetwarzania Napięć związanych z jego(jej) Rolą.
 
-#### 2.3.4 Specjalne wyznaczanie członków KręguSpecial Appointments of Core Members
+#### 2.3.4 Specjalne wyznaczanie członków Kręgu
 
 Opiekun Kręgu może specjalnie wyznaczyć dodatkowe osoby do działania w charakterze Członków Kręgu ponad tych, których wymaga niniejsza Konstytucja, oraz może w każdym czasie to wyznaczenie odwołać.
 
