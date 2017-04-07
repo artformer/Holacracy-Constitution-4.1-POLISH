@@ -1,7 +1,7 @@
-#**Holacracy Constitution - Development Version**
+# **Holacracy Constitution - Development Version**
 
 
-###PREAMBUŁA
+### PREAMBUŁA
 
 Niniejsza **_"Konstytucja"_** ustanawia zasady i procesy zarządzania i funkcjonowania organizacji. **_"Ratyfikujący"_** Konstytucję przyjmują te zasady, jako formalną strukturę sprawowania władzy w **_"Organizacji"_**, której dotyczy, która może stanowić całość podmiotu lub jego część, do której kierowania Ratyfikujący posiadają uprawnienia. Ratyfikujący Konstytucję oraz wszystkie inne osoby, które zgadzają się uczestniczyć w zarządzaniu i działaniach Organizacji (jej **_"Partnerzy"_**), mogą powoływać się na uprawnienia nadane niniejszą Konstytucją oraz zgadzają się przestrzegać nałożonych na jej podstawie obowiązków i ograniczeń.
 
