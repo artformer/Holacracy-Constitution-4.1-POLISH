@@ -213,29 +213,29 @@ Opiekun Kręgu może przydzielić osobę do wypełniania Roli Opiekuna dla każd
 
 Standardowo każdy Krąg wybiera Reprezentanta do Kręgu Matki. Jednakże wyboru takiego się nie wymaga, gdy Krąg nie posiada Członków innych aniżeli tych, którzy pełnią funkcję Opiekuna i Łącznika do Kręgu. W takim przypadku nawet jeśli przeprowadza się wybór, to wybrany Reprezentant nie staje się Członkiem Kręgu Matki.
 
-### 2.7 Cross Linking
+### 2.7 Łączność Kręgów
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+Krąg może stworzyć  **_“Regułę Łączności”_**, by zaprosić jakikolwiek podmiot lub grupę do uczestnictwa w Procesie Zarządczym Kręgu i jego działaniach operacyjnych. Zaproszony podmiot czy grupa staje się  **_“Podmiotem Powiązanym”_**. Ten podmiot może pochodzić spoza Organizacji lub może stanowić inną Rolę lub Krąg w ramach tej samej Organizacji. Krąg, który przyjmuje Łącznika z zewnątrz, uzyskuje miano  **_“Kręgu Docelowego”_**; Kręgiem Docelowym może być tylko Krąg, który stworzył Regułę Łączności, lub jeden z jego Pod-Kręgów.
 
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+Po przyjęciu Reguły Łączności, Podmiot Powiązany może wyznaczać przedstawiciela, który uczestniczyć będzie w Kręgu Docelowym na mocy niniejszej sekcji, chyba że Reguły określą to inaczej.
 
-#### 2.7.1 Cross Link Role
+#### 2.7.1 Rola Łącznika
 
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+Jeżeli Podmiot Powiązany jest Rolą, wówczas Rola ta może uczestniczyć w Kręgu Docelowym, jak opisano poniżej. W takim wypadku staje się ona **_“Rolą Łącznika”_**, a osoba ją pełniącą **_“Łącznikiem”_**.
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+Jeżeli Podmiot Powiązany jest Kręgiem lub grupą, wówczas tworzy się automatycznie nową Rolę Łącznika do tego zadania, która to musi w tym samym krztałcie być obecna w obu: Podmiocie Powiązanym oraz Kręgu Docelowym (na podobnych zasadach jak Reprezentant). W takim przypadku Rola Łącznika posiada takie samo Przeznaczenie i Odpowiedzialności jak Reprezentant, jednakże Pod-Krąg, o którym mowa w opisie Roli Reprezentanta, zostaje zastąpiony przez Podmiot Powiązany, a Nad-Krąg zostaje zastąpiony przez Krąg Docelowy.
 
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+Jeżeli Podmiot Powiązany nie posiada wyraźnego Przeznaczenia ani jakichkolwiek jasnych Odpowiedzialności, wówczas Reguła Łączności, musi doprecyzować, co Rola Łącznika będzie reprezentować w Kręgu Docelowym.
 
-#### 2.7.2 Cross Link Assignment
+#### 2.7.2 Przydzielenie Roli Łącznika
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+Jeżeli Podmiot Powiązany jest Kręgiem lub grupą, wówczas może wyznaczyć dowolną osobę do wypełniania Roli Łącznika przy zastosowaniu wszelkich procesów, jakie posiada do przydzielania Partnerów do Zdefiniowanych Ról lub podobnych funkcji.
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+Jeżeli Podmiot Powiązany reprezentuje grupę bez jasnego umiejscowienia odpowiedzialności co do wykonania tego zadania, wówczas Krąg Docelowy może przydzielić kogoś do Roli Łącznika, chyba że w Regułach Łączności określono inaczej.
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+W każdym przypadku tylko jedna osoba może zostać przydzielona do każdej Roli Łącznika, chyba że Reguły Łączności stanowią inaczej. 
 
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+Ilekroć Rola Łącznika jest nieobsadzona, to uważa się ją za nieistniejącą i nie posiada ona domyślnego przydziału ani skutku.
 
 #### 2.7.3 Cross Link Authority
 
