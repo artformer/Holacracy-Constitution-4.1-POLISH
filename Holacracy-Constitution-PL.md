@@ -237,47 +237,49 @@ W każdym przypadku tylko jedna osoba może zostać przydzielona do każdej 
 
 Ilekroć Rola Łącznika jest nieobsadzona, to uważa się ją za nieistniejącą i nie posiada ona domyślnego przydziału ani skutku.
 
-#### 2.7.3 Cross Link Authority
+#### 2.7.3 Uprawnienia Łącznika
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+Łącznik staje się Członkiem Kręgu Docelowego i może korzystać z uprawnień Członka do przetwarzania Napięć odnoszących się do Kręgu Docelowego i ograniczających Podmiot Powiązany.
 
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+Jednakże poza usuwaniem ograniczeń Łącznik nie może korzystać z Kręgu Docelowego do rozwijania możliwości Podmiotu Powiązanego, chyba że możliwości takie pomogłyby również Kręgowi Docelowemu wyrazić swoje własne Przeznaczenie lub Odpowiedzialności.
 
-#### 2.7.4 Additions to a Cross Link Role
+#### 2.7.4 Uzupełnienie Roli Łącznika
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
+Podmiot Powiązany może uzupełniać swoją Rolę Łącznika poprzez własny Proces Zarządczy. 
 
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+Krąg Docelowy może dodawać Roli Łącznika Domeny i Odpowiedzialności poprzez swój własny Proces Zarządczy i może później zmieniać lub usuwać którekolwiek z tych dodanych.
 
-#### 2.7.5 Boundaries and Delegation
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+#### 2.7.5 Granice i Delegowanie
 
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
+Rola istniejąca w jednym z Kręgów w Organizacji może stać się również Podmiotem Powiązanym, zaproszonym do Kręgu Docelowego. W takim wypadku, Krąg w którym istnieje ta Rola, może zmienić powiązanie i przekazać je innej Roli, jeżeli uzna to za właściwe, może również przekazać je jednemu ze swoich Pod-Kręgów.
 
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+Krąg Docelowy może również przekazać wymaganie uzyskania powiązania jednemu ze swoich Pod-Kręgów, w takim wypadku Pod-Krąg staje się Kręgiem Docelowym.
 
-## Article III: Governance Process
+W każdym wypadku przekazanie musi być dokonane poprzez Reguły Kręgu wykonującego przekazanie. Wszelkie zmiany lub przekazanie muszą zostać dostosowane do ograniczeń lub wytycznych określonych w Regułach Łączności, na których opierało się zaproszenie do połączenia na samym początku.
 
-### 3.1 Scope of Governance
 
-The Governance Process of a Circle has the power to:
+## Aktykuł III: Process Zarządczy
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for the Circle’s Elected Roles.
+### 3.1 Zakres Procesu Zarządczego
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
+Proces Zarządczy Kręgu sprawuje władzę nad:
 
-Only those outputs listed in this section are valid Governance for a circle; no one may capture other outputs within the Circle’s Governance records.
+- **(a)** określania, zmieniania lub likwidowania Ról Kręgu i Pod-Kręgów; oraz
+- **(b)** określania, zmieniania lub likwidowania Reguł Kręgu; oraz
+- **(c)** przeprowadzania wyborów na Wybieralne Role Kręgu.
 
-### 3.2 Changing Governance
+W każdym czasie obowiązujący w danym momencie zapis wyników Proces Zarządczego Kręgu określa aktualną **_“Strukturę”_**.
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+Jedynie te elementy, wymienione w niniejszej sekcji stanowią obowiązującą Strukturę dla Kręgu; nie można przyjmować innych zapisów w ramach Procesu Zarządczego.
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+### 3.2 Zmiana Struktury
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+Każdy Członek Kręgu może zaproponować zmianę Struktury wysuwając **_“Propozycję”_** jako **_“Wnioskodawca”_**.
+
+Zanim jakakolwiek Propozycja zostanie przyjęta, wszyscy Członkowie muszą mieć możliwość zgłoszenia Napięć dotyczących jej przyjęcia. Każde tak zgłoszone Napięcie uznawane jest za **_“Sprzeciw”_**, jeżeli spełnia kryteria zdefiniowane w niniejszej sekcji, a osoba która go wniosła, staje się wówczas **_“Zgłaszającym Sprzeciw”_**.
+
+Propozycje uważa się za przyjęte i za zmieniające Strukturę Kręgu tylko wtedy, gdy nie wniesiono żadnych Sprzeciwów. Jeżeli wniesiono Sprzeciw, wówczas Wnioskodawca i każdy Zgłaszający Sprzeciw muszą znaleźć sposób na zaadresowanie Sprzeciwu, zanim Krąg może przyjąć Propozycję, następnie wszyscy Członkowie muszą mieć ponownie możliwość wniesienia Sprzeciwów zanim Propozycja zostanie przyjęta.
 
 #### 3.2.1 Making Proposals
 
