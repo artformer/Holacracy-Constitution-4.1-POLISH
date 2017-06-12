@@ -250,7 +250,7 @@ Podmiot Powiązany może uzupełniać swoją Rolę Łącznika poprzez wła
 Krąg Docelowy może dodawać Roli Łącznika Domeny i Odpowiedzialności poprzez swój własny Proces Zarządczy i może później zmieniać lub usuwać którekolwiek z tych dodanych.
 
 
-#### 2.7.5 Granice i Delegowanie
+#### 2.7.5 Granice i delegowanie
 
 Rola istniejąca w jednym z Kręgów w Organizacji może stać się również Podmiotem Powiązanym, zaproszonym do Kręgu Docelowego. W takim wypadku, Krąg w którym istnieje ta Rola, może zmienić powiązanie i przekazać je innej Roli, jeżeli uzna to za właściwe, może również przekazać je jednemu ze swoich Pod-Kręgów.
 
@@ -281,27 +281,27 @@ Zanim jakakolwiek Propozycja zostanie przyjęta, wszyscy Członkowie muszą mi
 
 Propozycje uważa się za przyjęte i za zmieniające Strukturę Kręgu tylko wtedy, gdy nie wniesiono żadnych Sprzeciwów. Jeżeli wniesiono Sprzeciw, wówczas Wnioskodawca i każdy Zgłaszający Sprzeciw muszą znaleźć sposób na zaadresowanie Sprzeciwu, zanim Krąg może przyjąć Propozycję, następnie wszyscy Członkowie muszą mieć ponownie możliwość wniesienia Sprzeciwów zanim Propozycja zostanie przyjęta.
 
-#### 3.2.1 Making Proposals
+#### 3.2.1 Zgłaszanie propozycji
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+Każdy Członek Kręgu może złożyć Propozycję w ramach **_“Spotkania Zarządczego”_** Kręgu zwołanego na podstawie warunków określonych sekcją 3.3. 
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+Członek Kręgu może również wysłać Propozycję w trybie pozaspotkaniowym do wszystkich Członków Kręgu bez zwoływania Spotkania Zarządczego, przy użyciu pisemnych środków komunikacji zatwierdzonych w tym celu przez Sekretarza Kręgu. W takiej sytuacji Moderator może albo zastosować proces i reguły obowiązujące na Zebraniu Zarządczym, albo może pozwolić, aby każdy Członek Kręgu bezpośrednio zadeklarował, czy zgłasza Sprzeciwy do Propozycji. Ponadto, w każdym momencie przed przyjęciem pisemnej Propozycji Moderator lub którykolwiek z Członków Kręgu może zatrzymać rozpatrywanie Propozycji poprzez zażądanie, by Wnioskodawca przekazał Propozycję na Spotkanie Zarządcze oraz poprzez zawiadomienie Sekretarza Kręgu.
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+Krąg może uchwalić Reguły w celu ustalenia, kiedy lub jak Propozycje mogą być zgłaszane lub rozpatrywane poza Spotkaniem Zarządczym. Jednakże, żadne Reguły nie mogą ograniczać prawa do zatrzymania Propozycji pozaspotkaniowej i przeniesienia jej na Spotkanie Zarządcze. Krąg może ustalić Reguły określające termin, po upływie którego, jeśli nie zostaną wniesione żadne Sprzeciwy lub Propozycja o przeniesienie Propozycji na Spotkanie Zarządcze, pozaspotkaniowa Propozycja zostaje automatycznie przyjęta.
 
-#### 3.2.2 Criteria for Valid Proposals
+#### 3.2.2 Kryteria ważności propozycji
 
-Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
+Niektóre Propozycje są niedozwolone w ramach Procesu Zarządczego i Moderator może je odrzucić, zanim zostaną w pełni rozpatrzone.
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+Propozycja, żeby była ważna i dopuszczona do dalszego rozpatrywania, musi rozwiązywać lub zmniejszać Napięcie odczuwane przez Wnioskującego. Dodatkowo, zwykle Propozycja musi pomagać Wnioskodawcy lepiej wyrazić Przeznaczenie lub jedną z Odpowiedzialności określonej Roli pełnionej przez Wnioskującego w Kręgu. Jednakże, Propozycja może zamiast tego pomagać innemu Członkowi Kręgu lepiej wyrazić Rolę tej osoby w Kręgu, ale tylko wtedy, gdy taka osoba udzieliła Wnioskodawcy pozwolenia na reprezentowanie tej Roli.
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+Dodatkowo, Propozycja jest zawsze ważna, bez względu na poprzednie kryteria, jeżeli wniesiona zostaje wyłącznie w celu ulepszenia Struktury Kręgu, tak by jaśniej odzwierciedlała już realizowane działania lub w celu doprowadzenia do nowego wyboru dla którejkolwiek z Wybieralnych Ról.
 
-#### 3.2.3 Testing Proposals
+#### 3.2.3 Testowanie Propozycji
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+Moderator może sprawdzić ważność Propozycji, zadając Wnioskodawcy pytania. Aby Propozycja została uznana za ważną, Wnioskodawca musi być w stanie opisać Napięcie oraz podać przykład faktycznej przeszłej lub obecnej sytuacji, w której Propozycja zredukowałaby to Napięcie oraz pomogłaby Kręgowi w jeden ze sposobów wymienionych w poprzedniej sekcji. Moderator musi odrzucić Propozycję, jeśli uzna, że Wnioskujący nie spełnił tego warunku.
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+Oceniając ważność Propozycji, Moderator może jedynie ocenić, czy Wnioskodawca przedstawił wymagany przykład i wyjaśnienia oraz czy zostały one przedstawione w sposób logiczny, zatem czy są uzasadnione. Moderator nie może dokonać oceny na podstawie ich dokładności, ani na podstawie tego czy Propozycja właściwie odpowiada na Napięcie.
 
 #### 3.2.4 Criteria for Valid Objections
 
