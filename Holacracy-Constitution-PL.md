@@ -56,7 +56,7 @@ Możesz również zdefiniować **_“Reguły”_** dla twoich Domen, które albo
 
 Uprawnienia nadane ci na mocy niniejszej Sekcji mogą zostać dalej zawężone poprzez ograniczenia określone w Sekcji 2.1.3.
 
-## Artykół II: Struktura Kręgów
+## Artykuł II: Struktura Kręgów
 
 ### 2.1 Circle Basics
 
